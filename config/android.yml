@@ -1,0 +1,12 @@
+caps:
+  platformName: "Android"
+  automationName: "UiAutomator2"
+  deviceName: "Nexus 5"
+  app: "/Users/enriquesanchez/workspace/courses/appium-python/app/appiumproject.apk"
+  platformVersion: "8.1"
+  noReset: false
+  fullReset: false
+  newCommandTimeout: 300
+appium_lib:
+  server_url: "http://127.0.0.1:4723/wd/hub"
+  port: 4723
